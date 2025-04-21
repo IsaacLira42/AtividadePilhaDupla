@@ -1,0 +1,14 @@
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/bin/Debug/net8.0/TrabalhoPilha
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/bin/Debug/net8.0/TrabalhoPilha.deps.json
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/bin/Debug/net8.0/TrabalhoPilha.runtimeconfig.json
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/bin/Debug/net8.0/TrabalhoPilha.dll
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/bin/Debug/net8.0/TrabalhoPilha.pdb
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.AssemblyInfoInputs.cache
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.AssemblyInfo.cs
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.csproj.CoreCompileInputs.cache
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.dll
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/refint/TrabalhoPilha.dll
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.pdb
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.genruntimeconfig.cache
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/ref/TrabalhoPilha.dll
