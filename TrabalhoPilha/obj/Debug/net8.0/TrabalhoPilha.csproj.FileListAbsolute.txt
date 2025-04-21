@@ -12,3 +12,4 @@
 /home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.pdb
 /home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.genruntimeconfig.cache
 /home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/ref/TrabalhoPilha.dll
+/home/isaac/Desktop/TrabalhoSobrePilha/TrabalhoPilha/obj/Debug/net8.0/TrabalhoPilha.sourcelink.json
